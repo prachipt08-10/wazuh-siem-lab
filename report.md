@@ -48,7 +48,7 @@ framework mapping, in real time, through a dashboard.
 4. Periodically review the agent's compliance mapping for audit prep
 
 ## Evidence
-![Wazuh dashboard overview](screenshots/07-wazuh-dashboard.png)
-![Agent connected](screenshots/08-wazuh-agent-connected.png)
-![SSH alerts dashboard](screenshots/09-wazuh-ssh-alerts.png)
-![Rule detail](screenshots/10-wazuh-rule-detail.png)
+![Wazuh dashboard overview](07-wazuh-dashboard.png)
+![Agent connected](08-wazuh-agent-connected.png)
+![SSH alerts dashboard](09-wazuh-ssh-alerts.png)
+![Rule detail](10-wazuh-rule-detail.png)
